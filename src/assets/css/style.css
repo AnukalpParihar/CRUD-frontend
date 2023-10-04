@@ -1,0 +1,8 @@
+.link-item{
+    color:white;
+    font-weight: 600;
+    text-decoration:none;
+    background-color:rgb(5, 160, 5);
+    padding:10px;
+    border-radius:10px;
+}
